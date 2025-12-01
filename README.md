@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Obvinimus
-- 👀 I’m interested in Cybersecurity
-- 🌱 C# and .NET Developer
+
